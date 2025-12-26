@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'F930J107MAA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "F930J107MAA" (!) = "", "CAPPM3216X180N", "Capacitor Moulded Polarised", "647-F930J107MAA", "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/F930J107MAA?qs=a5AWWN0nKwYK75mlwZMETQ%3D%3D", "Cap Tant Solid 100uF 6.3V A CASE 20% (3.2 X 1.6 X 1.6mm) Inward L SMD 3216-18 2 Ohm 125C T/R", "https://datasheets.kyocera-avx.com/F93.pdf", "1.8 mm"
+END_PART
+
+END.

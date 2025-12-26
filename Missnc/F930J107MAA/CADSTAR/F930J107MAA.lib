@@ -1,0 +1,16 @@
+.F930J107MAA :1 ;Cap Tant Solid 100uF 6.3V A CASE 20% (3.2 X 1.6 X 1.6mm) Inward L SMD 3216-18 2 Ohm 125C T/R
+CAPPM3216X180N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN F930J107MAA
+~!Mouser Part Number (647-F930J107MAA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/F930J107MAA?qs=a5AWWN0nKwYK75mlwZMETQ%3D%3D)
+~!Manufacturer_Name (Kyocera AVX)
+~!Manufacturer_Part_Number (F930J107MAA)
+~!Link Datasheet (https://datasheets.kyocera-avx.com/F93.pdf)
+~!Height (1.8mm)
+~!3D_Model (F930J107MAA)
+F930J107MAA
+1.1!U 2.1!U 

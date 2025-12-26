@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=F930J107MAA
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Moulded Polarised
+PinCount=2
+Version=1.1
+Released=2025-05-01 07:28:41
+Downloaded=2025-12-18 13:58:15
+3D=Y

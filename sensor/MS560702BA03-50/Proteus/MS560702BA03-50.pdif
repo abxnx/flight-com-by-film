@@ -1,0 +1,131 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MS560702BA03-50"
+   (description "Dimensions: Dimensions 3 x 3 x 0.9 MM | Dimensions .11 x .11 x 0.03 INCH | Electrical Characteristics: Board Level Pressure Sensor Supply Voltage 1.5  3.6 V | Operation/Application: Resolution .016 | Output/Span 24 bit ADC | Board Level Pressure Sensor Accuracy +/-4mbar | Other: Sensor Options No Option | Packaging Features: Board Level Pressure Sensor Package Surface Mountable | Product Type Features: Board Level Pressure Sensor Style Absolute | Board Level Pressure Sensor Type Digital Pressure and Altim")
+   (family "ANA")
+   (package "MS5607-02BA03")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data%20Sheet&DocLang=English&PartCntxt=MS560702BA03-50&DocFormat=pdf")
+   (attribute "Mouser Part Number" "824-MS560702BA03-50")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Measurement-Specialties/MS560702BA03-50?qs=urSpXqmdEVImCZG1H%252BT8ng%3D%3D")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "MS560702BA03-50")
+   (gate
+    (symbol "MS560702BA03-50")
+    (pin "VDD" 1 PP)
+    (pin "PS" 2 IP)
+    (pin "GND" 3 PP)
+    (pin "CSB_1" 4 IP)
+    (pin "CSB_2" 5 IP)
+    (pin "SDO" 6 OP)
+    (pin "SDI/SDA" 7 IO)
+    (pin "SCLK" 8 IP)
+   )
+  )
+  (symbol "MS560702BA03-50"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "MS5607-02BA03"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 -2.5)
+      (pt 1.5 -2.5)
+      (pt 1.5 2.5)
+      (pt -1.5 2.5)
+      (pt -1.5 -2.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.5 2.5)
+      (pt 1.5 2.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.5 -2.5)
+      (pt 1.5 -2.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -1 2.8) (pt -1.2 2.8)
+     )
+    )
+   )
+   (leg 1 (pt -1.1 1.875) (padstack 0))
+   (leg 2 (pt -1.1 0.625) (padstack 0))
+   (leg 3 (pt -1.1 -0.625) (padstack 0))
+   (leg 4 (pt -1.1 -1.875) (padstack 0))
+   (leg 5 (pt 1.1 -1.875) (padstack 0))
+   (leg 6 (pt 1.1 -0.625) (padstack 0))
+   (leg 7 (pt 1.1 0.625) (padstack 0))
+   (leg 8 (pt 1.1 1.875) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.6 1.1 0 0 0))
+   )
+   (model "MS560702BA03-50.stp"
+    (euler 0 0 90)
+    (offset 0 0.10000000149011612 0.949999988079071)
+   )
+  )
+ )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MEM2080_00_128_00_A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "MEM2080-00-128-00-A" (!) = "", "MEM20800012800A", "Other", "640-MEM2080-0012800A", "https://www.mouser.co.uk/ProductDetail/GCT/MEM2080-00-128-00-A?qs=vvQtp7zwQdPJXzpf1SnYug%3D%3D", "Memory Card Connectors Micro SD, Push Push, SMT, Card Entry Normal, 1.28 mm profile", "https://gct.co/files/drawings/mem2080.pdf?v=a9dd5643-7d1c-4e6b-bf46-1b82bcb8595f", "1.48 mm"
+END_PART
+
+END.

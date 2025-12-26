@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MS560702BA03_50'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "TE Connectivity", "MS560702BA03-50" (!) = "", "MS5607-02BA03", "Other", "824-MS560702BA03-50", "https://www.mouser.co.uk/ProductDetail/Measurement-Specialties/MS560702BA03-50?qs=urSpXqmdEVImCZG1H%252BT8ng%3D%3D", "Dimensions: Dimensions 3 x 3 x 0.9 MM | Dimensions .11 x .11 x 0.03 INCH | Electrical Characteristics: Board Level Pressure Sensor Supply Voltage 1.5  3.6 V | Operation/Application: Resolution .016 | Output/Span 24 bit ADC | Board Level Pressure Sensor Accuracy +/-4mbar | Other: Sensor Options No Option | Packaging Features: Board Level Pressure Sensor Package Surface Mountable | Product Type Features: Board Level Pressure Sensor Style Absolute | Board Level Pressure Sensor Type Digital Pressure and Altim", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data%20Sheet&DocLang=English&PartCntxt=MS560702BA03-50&DocFormat=pdf"
+END_PART
+
+END.

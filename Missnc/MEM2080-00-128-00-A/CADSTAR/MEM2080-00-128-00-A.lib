@@ -1,0 +1,17 @@
+.MEM2080-00-128-00-A :1 ;Memory Card Connectors Micro SD, Push Push, SMT, Card Entry Normal, 1.28 mm profile
+MEM20800012800A
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=MP1 10=MP2 11=MP3 12=MP4 13=DSW1 14=DSW2
+*PLB 1="DAT2" 2="CD/DAT3" 3="CMD" 4="VDD" 5="CLK" 6="VSS" 7="DAT0" 8="DAT1" 9="MP1" 10="MP2" 11="MP3" 12="MP4" 13="LEVER PIN" 14="SWITCH PIN"
+*MXP 14
+*DFN MEM2080-00-128-00-A
+~!Mouser Part Number (640-MEM2080-0012800A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/MEM2080-00-128-00-A?qs=vvQtp7zwQdPJXzpf1SnYug%3D%3D)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (MEM2080-00-128-00-A)
+~!Link Datasheet (https://gct.co/files/drawings/mem2080.pdf?v=a9dd5643-7d1c-4e6b-bf46-1b82bcb8595f)
+~!Height (1.48mm)
+~!3D_Model (MEM2080-00-128-00-A)
+MEM2080-00-128-00-A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

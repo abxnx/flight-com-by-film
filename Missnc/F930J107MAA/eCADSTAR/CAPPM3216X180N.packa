@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "F930J107MAA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-05-01-07:28:41)
+    (mountForm default
+        (footprintRef "CAPPM3216X180N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,16 @@
+.MS560702BA03-50 :1 ;Dimensions: Dimensions 3 x 3 x 0.9 MM | Dimensions .11 x .11 x 0.03 INCH | Electrical Characteristics: Board Level Pressure Sensor Supply Voltage 1.5  3.6 V | Operation/Application: Resolution .016 | Output/Span 24 bit ADC | Board Level Pressure Sensor Accuracy +/-4mbar | Other: Sensor Options No Option | Packaging Features: Board Level Pressure Sensor Package Surface Mountable | Product Type Features: Board Level Pressure Sensor Style Absolute | Board Level Pressure Sensor Type Digital Pressure and Altim
+MS5607-02BA03
+*STM IC
+*NGS
+*PLB 1="VDD" 2="PS" 3="GND" 4="CSB_1" 5="CSB_2" 6="SDO" 7="SDI/SDA" 8="SCLK"
+*MXP 8
+*DFN MS560702BA03-50
+~!Mouser Part Number (824-MS560702BA03-50)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Measurement-Specialties/MS560702BA03-50?qs=urSpXqmdEVImCZG1H%252BT8ng%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (MS560702BA03-50)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data%20Sheet&DocLang=English&PartCntxt=MS560702BA03-50&DocFormat=pdf)
+~!Height (-)
+~!3D_Model (MS560702BA03-50)
+MS560702BA03-50
+1.1!P 2.1!I 3.1!G 4.1!I 5.1!I 6.1!Y 7.1!U 8.1!I 

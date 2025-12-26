@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MS5607-02BA03"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MS5607-02BA03")
+        (spec "default")
+    )
+)

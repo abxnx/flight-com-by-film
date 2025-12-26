@@ -1,0 +1,16 @@
+.TPS62153RGTR :1 ;317V 1A Step-Down Converter in 3x3 QFN package
+QFN50P300X300X100-17N-D
+*STM IC
+*NGS
+*PLB 1="SW_1" 2="SW_2" 3="SW_3" 4="PG" 5="FB" 6="AGND" 7="FSW" 8="DEF" 9="SS/TR" 10="AVIN" 11="PVIN_1" 12="PVIN_2" 13="EN" 14="VOS" 15="PGND_1" 16="PGND_2" 17="EP"
+*MXP 17
+*DFN TPS62153RGTR
+~!Mouser Part Number (595-TPS62153RGTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62153RGTR?qs=gXEV9p%2FxLgf6PfFn0Q2piA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS62153RGTR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/TPS62153)
+~!Height (1mm)
+~!3D_Model (TPS62153RGTR)
+TPS62153RGTR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

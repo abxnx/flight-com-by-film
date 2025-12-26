@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=MS560702BA03-50
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=2.1
+Released=2017-05-17 13:20:36
+Downloaded=2025-10-01 15:47:34
+3D=Y

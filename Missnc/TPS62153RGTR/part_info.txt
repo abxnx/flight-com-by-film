@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS62153RGTR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=17
+Version=2.1
+Released=2021-11-03 08:51:31
+Downloaded=2025-12-16 13:46:23
+3D=Y

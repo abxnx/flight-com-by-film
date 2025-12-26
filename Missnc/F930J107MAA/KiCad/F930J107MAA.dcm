@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP F930J107MAA
+D Cap Tant Solid 100uF 6.3V A CASE 20% (3.2 X 1.6 X 1.6mm) Inward L SMD 3216-18 2 Ohm 125C T/R
+K
+F https://datasheets.kyocera-avx.com/F93.pdf
+$ENDCMP
+#
+#End Doc Library
